@@ -1,0 +1,34 @@
+_repo: In-the-Heart-of-the-Christmas-Pines_45103
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wrenn, Charles L. (Charles Lewis)
+    birthdate: 1880
+    deathdate: 1952
+    gutenberg_agent_id: '25468'
+    url: http://www.gutenberg.org/2009/agents/25468
+covers:
+- cover_type: archival
+  image_path: 45103-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dalrymple, Leona
+    alias: Dalrymple, C. Leona
+    birthdate: 1884
+    gutenberg_agent_id: '6328'
+    url: http://www.gutenberg.org/2009/agents/6328
+description: ''
+gutenberg_issued: '2014-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45103'
+  lccn: '14018308'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Christmas stories'
+title: In the Heart of the Christmas Pines
+url: http://www.gutenberg.org/ebooks/45103
